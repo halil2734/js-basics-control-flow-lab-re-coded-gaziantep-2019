@@ -3,7 +3,9 @@ function scuberGreetingForFeet(){
   let ride;
   if (ride <= 400){
    return "This is on me"; 
-   else if (ride )
+   else if (ride >= 2000){
+     return ""
+   }
   }
 }
 
