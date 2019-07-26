@@ -1,6 +1,8 @@
 function scuberGreetingForFeet(){
   // Write your code here!
-  
+  if (ride <= 400){
+    
+  }
 }
 
 function ternaryCheckCity(){
